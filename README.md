@@ -50,8 +50,6 @@
 | Test Program | Sum 1 to 9 — verified x10 = 45 and x15 = 45 (load/store) |
 | Verification | Automated Makerchip testbench — PASSED |
 
-<h2>📁 Repository Structure</h2>
-
 ## 📁 Repository Structure
 ```
 Project-RISC-V-CPU-Design-using-TL-Verilog/
