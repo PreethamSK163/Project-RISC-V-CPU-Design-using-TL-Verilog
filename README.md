@@ -103,4 +103,5 @@ Extended the single-cycle design to a fully pipelined 5-stage architecture — i
 | **Program** | NASSCOM FutureSkills Prime — VSD (VLSI System Design) |
 | **LinkedIn** | [linkedin.com/in/preethamsk16](https://www.linkedin.com/in/preethamsk16) |
 | **GitHub** | [github.com/PreethamSK163](https://github.com/PreethamSK163) |
+| **Portfolio** | [preethamsk163.github.io](https://preethamsk163.github.io) |
 | **Email** | preethamsk163@gmail.com |
